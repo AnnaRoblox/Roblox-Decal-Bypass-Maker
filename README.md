@@ -7,5 +7,7 @@ a program to help you make bypasses for roblox
 # automatic update checking on startup
 # slipmode multiple options note: program may stop responding during batch export if it does just wait till its finished
 # custom method creation and saving
+# customizable watermarking 
+# ability to use custom fonts on text watermark
 -----------------------------------------------------------------------------------------------------------------------------------------
 issues or suggestions? create a issue with details
